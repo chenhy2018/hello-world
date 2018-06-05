@@ -3,6 +3,10 @@
 
 int main(void)
 {
+    char ch;
+
     printf("hello world!\n");
+    ch = getchar();
+
     return 0;
 }
