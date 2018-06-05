@@ -3,5 +3,7 @@
 
 int main(void)
 {
+    char ch;
+
     return 0;
 }
